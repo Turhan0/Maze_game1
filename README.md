@@ -1,3 +1,3 @@
-# Maze_game1
+# Maze Clutcher
 
 Developed with Unreal Engine 5
